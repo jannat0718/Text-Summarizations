@@ -4,7 +4,7 @@ End-to-end Extractive and Abstractive summarization of articles/blogs using Hugg
 For Extractive Summarization:
 	Extracted Article or Blog from a given URL using BeautifulSoup and requests functions in Python.
 	Chunked the text data for a maximum number of  500 Tokens.
-	Loaded the  Summarization pipeline from the pre-trained base Transformer and passed each chunked text to produce one summary for each chunk. After joining   all the separate summaries to generate a comprehensive summary.
+	Loaded the  Summarization pipeline from the pre-trained base Transformer and passed each chunked text to produce one summary of 120 words for each chunk. After joining   all the separate summaries to generate a comprehensive summary.
 
 
 Abstractive Summarization Using the PEGASUS-XSUM model and PEGASUS-large model:
