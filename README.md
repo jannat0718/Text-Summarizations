@@ -1,7 +1,7 @@
 # Text-Summarizations-
 End-to-end Extractive and Abstractive summarization of articles/blogs using Hugging Face pre-trained base Transformer libraries for learning and understaning purpose.
 
-For Extractive Summarization:
+##**For Extractive Summarization:**
 
 	Extracted Article or Blog from a given URL using BeautifulSoup and requests functions in Python.
 
@@ -10,7 +10,7 @@ For Extractive Summarization:
 	Loaded the  Summarization pipeline from the pre-trained base Transformer and passed each chunked text to produce one summary of 80 words for each chunk. After joining   all the separate summaries to generate a comprehensive summary.
 
 
-Abstractive Summarization Using the PEGASUS-XSUM model and PEGASUS-large model:
+##**Abstractive Summarization Using the PEGASUS-XSUM model and PEGASUS-large model:**
 
 	Installed Pytorch, SentencePiece, and Transformer for Pegasus Model instantiation, Tokenization & detokenization process.
 
