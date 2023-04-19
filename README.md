@@ -1,4 +1,4 @@
-## Extractive and Abstractive Text-Summarizations
+## Extractive and Abstractive Text Summarization Techniques using Transformer Models
 
 **Text summarization** is the process of automatically generating a shortened version of a given document or text. In this era of big data and information overload, text summarization has become an essential tool for processing and presenting information in a concise and meaningful way. There are two main approaches to text summarization: extractive and abstractive.
 
